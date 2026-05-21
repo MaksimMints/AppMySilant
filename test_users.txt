@@ -1,0 +1,20 @@
+customer:
+login: customer1
+password: passwordcust
+
+login: customer2
+password: passwordcust
+
+login: customer3
+password: passwordcust
+
+manager:
+login: manager1
+password: passwordman
+
+service company:
+login: service1
+password: passwordserv
+
+login: service2
+password: passwordserv
